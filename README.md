@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi! My name is Christopher Louie and I am a software developer with interest in Full-Stack Development. I am currently working on multiple projects, primarily [Budget Discord](https://github.com/ChrisLouie10/Budget-Discord), which is a simple web app imitating my favoriate instant messaging app.
+
 <!--
 **ChrisLouie10/ChrisLouie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
